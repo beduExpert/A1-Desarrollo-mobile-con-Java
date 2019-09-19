@@ -1,17 +1,18 @@
  
-## Módulo: Nombre del modulo
+## Módulo: A1 - Java para Mobile
 
 ### OBJETIVO 
- - Agrega lo que van a aprender en el modulo
+ - El objetivo de este módulo es que seas capaz de crear tu propia App por medio de Android, utilizando el lenguaje java y XML. Para ello, hemos creado un proyecto en Android el cual irá ramificandose: La rama "master" contiene el proyecto original, y conforme avances en la rama, los ejemplos y retos irán avanzando.
  
+ Buena suerte!
 
 ### ORGANIZACIÓN DE MÓDULO 
- - [Sesión 1](): 
- - [Sesión 2](): 
- - [Sesión 3](): 
- - [Sesión 4](): 
- - [Sesión 5](): 
- - [Sesión 6](): 
- - [Sesión 7](): 
- - [Sesión 8]():
+ - [Sesión 1](): Arquitectura, Bases y Recursos
+ - [Sesión 2](): Fundamentos de Android
+ - [Sesión 3](): Interfaces Gráficas
+ - [Sesión 4](): Programación en Java
+ - [Sesión 5](): Programación a profundidad en Java
+ - [Sesión 6](): Vinculación de Java y XML
+ - [Sesión 7](): Programación de Actividades
+ - [Sesión 8](): Vinculación con servicios de otras Apps
 
