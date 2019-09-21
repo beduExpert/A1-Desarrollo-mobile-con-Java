@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<!--
+Este es el primer ejemplo de un LinearLayout:
+Tiene ancho (layout_width), alto (layout_height)
+orientación y gravedad.
+
+NOTA IMPORTANTE:
+Solamente el primer objeto (el padre de todos) debe llevar
+los atributos xmlns:android, xmlns:app y xmlns:tools
+así como "tools:context"
+-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
     tools:context=".MainActivity">
 
     <TextView
@@ -15,4 +30,4 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
