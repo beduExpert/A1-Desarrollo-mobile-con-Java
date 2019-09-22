@@ -42,15 +42,12 @@ public class Pokemon {
 
         //Veamos si es daño crítico o falla
         double criticalHit = rand.nextDouble();
-
         //daño crítico
         if(criticalHit > 0.9)
             danoQueHaceElAtaque =(int)(Math.pow(danoQueHaceElAtaque,2));
-
-        //Falla!
         if(criticalHit < 0.1)
             danoQueHaceElAtaque = 0;
-        
+
         return danoQueHaceElAtaque;
     }
 
