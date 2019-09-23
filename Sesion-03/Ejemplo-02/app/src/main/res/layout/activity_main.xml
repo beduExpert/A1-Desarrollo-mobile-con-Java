@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+En este ejemplo muestro que pasa si pones varios objetos (textviews) dentro de un
+Linear Layout, puedes editar las propiedades y ver como funcionan y se comportan en
+la ventana de Preview (a tu derecha.)
+
+Nota: Ahora mismo por claridad dejé en Android: text el texto "hard-coded"
+pero en los siguientes ejemplos los pondré en res/value/strings.xml
+-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hola Mundo!!"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Esta es la primera pantalla de BEDU Travels!!"/>
+</LinearLayout>
