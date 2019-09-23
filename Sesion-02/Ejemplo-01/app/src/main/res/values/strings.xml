@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokeDex</string>
+    <string name="textoEjemplo">Bienvenido a esta, tu nueva App este es un texto de ejemplo :D!</string>
+</resources>
