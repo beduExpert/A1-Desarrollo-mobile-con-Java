@@ -1,11 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesion 04 - Reto 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
-
+ - Crear un objeto en MainActivity.java 
+ 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. Conocimientos básicos de programación. 
 
 #### DESARROLLO
-
+Dentro de MainActivity.java, crea un pokemon! 
+Dejo un ejemplo, para que puedas irlo siguiendo, y seas capaz de crear un Pokemon por tu propia cuenta.
