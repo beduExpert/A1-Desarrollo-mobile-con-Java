@@ -1,4 +1,3 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
 ## Sesion 03 - Reto 02
 
 ### OBJETIVO 
