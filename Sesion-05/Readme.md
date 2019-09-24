@@ -1,4 +1,3 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
 ## Programación Avanzada en Java.
 
 ### OBJETIVOS 
