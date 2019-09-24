@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buscando direcciones con  Maps..."
+        android:textSize="25sp"/>
+    <Button
+        android:id="@+id/btnCasa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Busca mi casa!"/>
+
+    <Button
+        android:id="@+id/btnTrabajo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Busca mi trabajo!"/>
+
+    <Button
+        android:id="@+id/btnRestaurante"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Busca mi restaurante favorito!"/>
+</LinearLayout>
