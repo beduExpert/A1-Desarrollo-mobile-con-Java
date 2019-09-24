@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainMenuActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:gravity="start"
+        android:text="¡Bienvenido a tu App!"/>
+    <Button
+        android:id="@+id/mainMenu_btnPokeDex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Entrar al PokeDex"/>
+    <Button
+        android:id="@+id/mainMenu_btnNoMePresiones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Minijuego: No me presiones"/>
+    <Button
+        android:id="@+id/mainMenu_btnAgenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ir a la agenda"/>
+</LinearLayout>
