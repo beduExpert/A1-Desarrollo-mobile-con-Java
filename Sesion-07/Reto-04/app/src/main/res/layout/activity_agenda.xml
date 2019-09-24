@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".AgendaActivity">
+
+    <Button
+        android:id="@+id/btnAntonioArista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Antonio Arista" />
+
+    <Button
+        android:id="@+id/btnJoseLuisPerez"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jose Luis Perez" />
+
+    <Button
+        android:id="@+id/btnMarthaSanchez"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Martha Sanchez" />
+
+    <Button
+        android:id="@+id/btnGuadalupeRamos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guadalupe Ramos" />
+</LinearLayout>
