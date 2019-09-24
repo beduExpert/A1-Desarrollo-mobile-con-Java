@@ -1,11 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesion 03 - Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender acerca de la anidación de Layouts.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
 
 #### DESARROLLO
+En este reto vamos a crear un linearlayout dentro de otro linearlayout, para demostrar que puedes anidar diferentes contenedores con distintos comportamientos, para lograr la interfaz gráfica que requieres. 
 
+Toma en cuenta que puede que requieras observar el preview constantemente, y si encuentras algun error, es probable que el preview no se dibuje hasta que lo corrijas.

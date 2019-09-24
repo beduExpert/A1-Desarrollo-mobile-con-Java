@@ -1,11 +1,16 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+ ## Sesión 03 - Ejemplo 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - El funcionamiento de dos objetos: Un EditText y un Botón. 
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio.
+2. Haber entendido los ejemplos anteriores.
 
 #### DESARROLLO
+Este ejemplo nuestra como funcionan dos componentes:
+Un EditText y un botón.
+
+Puedes agregar mas componentes en este ejemplo si lo necesitas :)
+¡Buena suerte!
 

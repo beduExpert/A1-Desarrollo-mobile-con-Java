@@ -1,11 +1,11 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesion 03 - Ejemplo 04
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - En este ejemplo se introduce el concepto de pesos (layout_weight)
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. Haber entendido los ejemplos anteriores
 
 #### DESARROLLO
-
+Este ejemplo muestra como se puede generar una pantalla con pesos (layout_weights), lo cual es bastante importante para hacer interfaces gráficas con ciertas proporciones dentro de linearLayouts. Este ejemplo sirve para hacer que los componentes estén distribuidos adecuadamente dentro de una pantalla de Android.

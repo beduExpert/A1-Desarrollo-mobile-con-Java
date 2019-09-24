@@ -1,11 +1,11 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesion 04 - Ejemplo 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprenderemos acerca de Métodos.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. Conocimientos elementales de programación.  
 
 #### DESARROLLO
-
+En este ejemplo podemos observar como se crea un método: un bloque de programación que permite al programador que el objeto realice alguna acción. Por cultura pop utilicé "Pokemon" como ejemplo, pero puede ser cualquier otro ejemplo. 

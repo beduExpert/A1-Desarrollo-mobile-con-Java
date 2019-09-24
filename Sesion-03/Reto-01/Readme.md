@@ -1,11 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+ ## Sesion03 - Reto 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender a modificar las propiedades de los objetos XML para obtener ciertos comportamientos.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. Haber entendido los ejemplos 
 
 #### DESARROLLO
-
+Esta es la solución al reto 01: 
+El objetivo es crear la interfaz que se muestra en la presentación. (dos textviews hasta abajo de una pantalla, ordenados horizontalmente dentro de un LinearLayout)
