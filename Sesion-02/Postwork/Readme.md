@@ -7,7 +7,7 @@
 1. Lo necesario para desarrollar el ejemplo o el Reto 
 
 #### DESARROLLO
-*Actividad 1: Redimensionamiento de Assets para tu proyecto personal* 
+**Actividad 1: Redimensionamiento de Assets para tu proyecto personal**  
 Encuentra y descarga de <URL> de algunos assets para tu proyecto y redimensiónalos para todas las versiones (XXXHDPI, XXHDPI, XHDPI, HDPI, MDPI, y LDPI), te recuerdo las proporciones:
 - XXXHDPI: No tienes que hacer nada 
 - XXHDPI: Tamaño x 0.75
@@ -16,7 +16,7 @@ Encuentra y descarga de <URL> de algunos assets para tu proyecto y redimensióna
 - MDPI: Tamaño x 0.25
 - LDPI: Tamaño x 0.1875
 
-*Actividad 2: Paleta de colores.*
+**Actividad 2: Paleta de colores.**  
 Define 2 paletas de colores para la App de tu proyecto (uno para modo luminoso, y otro para modo oscuro) en el archivo colors.xml para los siguientes elementos:
 - Colores de botones
 - Colores de texto
