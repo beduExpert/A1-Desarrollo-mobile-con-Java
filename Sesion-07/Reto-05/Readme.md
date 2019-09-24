@@ -1,11 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesión 07 - Reto 05
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Recepción de datos desde otra actividad. 
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. Emulador o Dispositivo con Android 
+3. Cable USB en caso de que se use un dispositivo con Android. 
 
 #### DESARROLLO
-
+En este reto vamos a cargar los datos de la otra actividad, y vamos a cargarlos en esta actividad. Los datos que se cargan de la otra actividad pueden o no existir, por lo cual es importante que revises si los datos existen o no, en caso de no existir, debes darle un valor default a los datos con el método getString/getInt/getBoolean etc...
