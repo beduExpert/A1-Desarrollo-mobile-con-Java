@@ -1,14 +1,7 @@
 ## Programación Avanzada en Java.
 
 ### OBJETIVOS 
- En esta sesión, veremos elementos de programación avanzada en Java:
-	- Paquetes
-	- Logs
-	- Dependencias ajenas de tu App.
-	- El objeto Calendar
-	- El objeto Random
-	- El objeto Math
-	- El objeto ArrayList
+ En esta sesión, veremos elementos de programación avanzada en Java: Paquetes, Logs, Dependencias ajenas de tu App, El objeto Calendar, El objeto Random, El objeto Math, El objeto ArrayList
 
 #### ORGANIZACION DE LA CLASE 
 - Paquetes de Java	
