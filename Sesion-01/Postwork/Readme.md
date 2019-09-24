@@ -1,11 +1,7 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Postwork 
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
-
-#### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+ - Reconocer los contenidos y temas de la sesión 1 y responder un quiz de para identificar los aprendizajes obtenidos previos a la sesión presencial 
 
 #### DESARROLLO
-
+- Responder el quiz que se encuentra en la PWA para identificar lo aprendido. 
