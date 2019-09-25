@@ -15,6 +15,7 @@ Utiliza lo aprendido durante el último reto de la sesión para agregarle a tu p
 4. Prepara tu PokeDex para la siguiente clase.  
 *Tu código de MainActivity.java debe verse así:
 
+
  ```public class MainActivity extends AppCompatActivity {
 
     ArrayList<Pokemon> todosLosPokemon;
@@ -37,9 +38,5 @@ Utiliza lo aprendido durante el último reto de la sesión para agregarle a tu p
         listaPokemon.add(new Pokemon(5,"charizard",1.60, 10.5, "Es el prokemon de fuego", 6, 250));
         return listaPokemon;
     }
-} ```   
-(onCreate está plegado, pero puedes ignorarlo por esta vez.)
-  
-Debes tener:
-Un ArrayList todosLosPokemon
-int pokemonSeleccionado
+*(onCreate está plegado, pero puedes ignorarlo por esta vez.)*
+´´´
