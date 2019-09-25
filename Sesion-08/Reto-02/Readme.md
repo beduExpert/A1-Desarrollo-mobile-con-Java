@@ -9,4 +9,4 @@
 3. Cable USB
 
 #### DESARROLLO
-En este reto vamos a enviar un correo electrónico via Intent. El reto consiste en tomar los tres EditTexts del reto 01, y mdificar el botón de enviar para que pueda generar un correo electrónico. Es importante añadir un cuarto EditText para que el usuario pueda poner el correo electrónico. Una vez generado el correo electrónico, el Intent se encargará de buscar una App que pueda gestionar el correo (como Gmail o Outlook). 
+En este reto vamos a enviar un correo electrónico via Intent. El reto consiste en tomar los tres EditTexts del reto 01, y modificar el botón de enviar para que pueda generar un correo electrónico. Es importante añadir un cuarto EditText para que el usuario pueda poner el correo electrónico. Una vez generado el correo electrónico, el Intent se encargará de buscar una App que pueda gestionar el correo (como Gmail o Outlook). 
