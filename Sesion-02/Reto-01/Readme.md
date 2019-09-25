@@ -14,9 +14,9 @@
         drawable-xhdpi
         drawable-hdpi
         drawable-mdpi
-        drawable-ldpi
-Ya he puesto el ejemplo creando la carpeta "drawable-xxxhdpi", tu reto ahora será tomar las imágenes y redimensionarlas con GIMP o con un script, como tu prefieras.
-    Tips:
+        drawable-ldpi  
+        Ya he puesto el ejemplo creando la carpeta "drawable-xxxhdpi", tu reto ahora será tomar las imágenes y redimensionarlas con GIMP o con un script, como tu prefieras.
+    **Tips:**
         1.- Las imágenes se encuentran dentro de res/drawable en la vista de "Android"
         2.- Puedes ver las carpetas en la vista "Project" (del lado superior izquierdo). La ruta es
                 app -> src -> main -> res, y dentro está drawable-xxxhdpi.
