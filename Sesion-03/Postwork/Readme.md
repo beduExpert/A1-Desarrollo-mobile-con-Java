@@ -3,9 +3,6 @@
 ### OBJETIVO 
  - Reforzarás el conocimiento que adquiriste sobre los conceptos claves para ser capaz de crear interfaces gráficas haciendo uso de los conceptos como: Layouts, Imageview, Button y Textview.
 
-#### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
-
 #### DESARROLLO
 **Actividad 1: Diseño de pantallas en papel**
 Comenzarás a diseñar las pantallas en papel y cómo es que cada botón te llevará a otra pantalla dentro de la App de tu proyecto personal. Algunos ejemplos de actividades que puedes crear: 
