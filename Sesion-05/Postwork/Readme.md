@@ -16,7 +16,8 @@ Utiliza lo aprendido durante el último reto de la sesión para agregarle a tu p
 *Tu código de MainActivity.java debe verse así:
 
 
- ```public class MainActivity extends AppCompatActivity {
+ ```java  
+ public class MainActivity extends AppCompatActivity {
 
     ArrayList<Pokemon> todosLosPokemon;
     int pokemonSeleccionado;
