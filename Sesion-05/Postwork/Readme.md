@@ -39,5 +39,6 @@ Utiliza lo aprendido durante el último reto de la sesión para agregarle a tu p
         listaPokemon.add(new Pokemon(5,"charizard",1.60, 10.5, "Es el prokemon de fuego", 6, 250));
         return listaPokemon;
     }
-*(onCreate está plegado, pero puedes ignorarlo por esta vez.)*
 ´´´
+
+*(onCreate está plegado, pero puedes ignorarlo por esta vez.)*
