@@ -8,10 +8,10 @@ Utiliza lo aprendido durante el último reto de la sesión para agregarle a tu p
 1. Agrega “Logs” a tu código.  
 2. Crea paquetes para tu proyecto.  
 3. Agrega las funcionalidades extra de la librerías que vienen en la documentación oficial de Android:
-   java.util.Calendar
-   java.lang.Math 
-   java.util.Random 
-   java.util.ArrayList   
+   java.util.Calendar  
+   java.lang.Math   
+   java.util.Random   
+   java.util.ArrayList     
 4. Prepara tu PokeDex para la siguiente clase.  
 *Tu código de MainActivity.java debe verse así:
 (onCreate está plegado, pero puedes ignorarlo por esta vez.)
