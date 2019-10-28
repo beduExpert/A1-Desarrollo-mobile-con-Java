@@ -1,10 +1,10 @@
 ## Sesión 06 - Vinculación Java - XML
 
 ### OBJETIVOS 
- - Entender como es que Java y XML se combinan gracias al archivo R.java
- - Entender como es que modificando un objeto en Java, tiene impacto inmediato en la interfaz gráfica. 
- - Entender acerca de los onClickListener y como funcionan. 
- - Entender que pasa si se modifican propiedades de objetos con los ClickListeners. 
+ - Entender cómo es que Java y XML se combinan gracias al archivo R.java
+ - Entender cómo es que modificando un objeto en Java, tiene impacto inmediato en la interfaz gráfica. 
+ - Entender acerca de los onClickListener y cómo funcionan. 
+ - Entender qué pasa si se modifican propiedades de objetos con los ClickListeners. 
 
 #### ORGANIZACION DE LA CLASE 
 - Vinculación Java y XML
