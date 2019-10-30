@@ -16,15 +16,13 @@ Esta es la estructura del intent para acceder a Maps:
 ```java
 ...
 @Override
-            public void onClick(View view) {
-                String direccionABuscar = direccion.getText().toString();
-                direccionABuscar.replace(' ','+');
-                Intent mapsIntent = new Intent(Intent.ACTION_VIEW,Uri.parse("geo:0,0?q="+direccionABuscar));
-                startActivity(mapsIntent);
-            }
-        });
-    }
-}
+  public void onClick(View view) {
+      String direccionABuscar = direccion.getText().toString();
+      direccionABuscar.replace(' ','+');
+      Intent mapsIntent = new Intent(Intent.ACTION_VIEW,Uri.parse("geo:0,0?q="+direccionABuscar));
+      startActivity(mapsIntent);
+  }
+      
 ```
 3. Verifica.  
 Puedes revisar que las direcciones que pusiste pueden hallarse. Igualmente, puedes abrir la geolocalización con otras apps como Uber.
