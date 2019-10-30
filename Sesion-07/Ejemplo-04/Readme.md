@@ -1,11 +1,39 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+`Desarrollo Mobile con Java` > `[Sesión 07]`
+
+## Extrayendo datos con los Bundles
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
-
-#### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+ - Identificar el proceso para extraer datos con los Bundle.
 
 #### DESARROLLO
 
+```java
+ @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+  ```
+  
+  *El bundle no sabe el tipo de dato. Es responsabilidad tuya el decirle que tipo de dato es el que esperas. Si el tipo de dato no coincide tu sistema puede fallar.
+     
+ ```java
+           @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_datos_de_contacto);
+
+        String nombrePersona;
+        int edadPersona;
+
+        Bundle datosDeOtraActivity = getIntent().getExtras();
+        if(datosDeOtraActivity != null)
+        {
+            nombrePersona = datosDeOtraActivity.getString("Nombre","desconocido");
+            edadPersona = datosDeOtraActivity.getInt("Edad",-1);
+            //Haz algo con los datos que has capturado.
+        }
+    }
+}
+```
+
+*El bundle puede no tener datos por cualquier razón. Es tu responsabilidad como programador el preparar tu actividad por si no hay datos.
