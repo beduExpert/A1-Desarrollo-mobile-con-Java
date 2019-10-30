@@ -19,8 +19,11 @@ En este ejemplo vamos a vincular el archivo activity_no_me_presiones.xml con est
 public class NoMePresionesActivity extends AppCompatActivity {
 
     /*
-    Java. Dentro del XML hay dos objetos etiquetados: Un botón y un textview.
-     */
+```
+Java. Dentro del XML hay dos objetos etiquetados: Un botón y un textview.
+
+```java
+    */
     Button btn_NoMePresiones;
     TextView txt_Mensaje;
 
