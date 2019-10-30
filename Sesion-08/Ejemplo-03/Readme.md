@@ -6,11 +6,11 @@
 
 #### DESARROLLO
 
-1. Crea tu Actividad. 
+1. Crea tu Actividad.   
 Crea una actividad que tenga un EditText para escribir una dirección.
 Agrega un botón para disparar el intent (recuerda: Los intents son reactivos).
 
-2. Crea el intent.
+2. Crea el intent.  
 Esta es la estructura del intent para acceder a Maps:
 
 ```java
@@ -25,5 +25,5 @@ Esta es la estructura del intent para acceder a Maps:
     }
 }
 ```
-3. Verifica.
+3. Verifica.  
 Puedes revisar que las direcciones que pusiste pueden hallarse. Igualmente, puedes abrir la geolocalización con otras apps como Uber.
