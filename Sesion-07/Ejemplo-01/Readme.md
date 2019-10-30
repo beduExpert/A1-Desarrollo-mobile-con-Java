@@ -1,4 +1,4 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
+ ``Desarrollo Mobile con Java``> [``Sesión 07``]  
 ## Tu actividad con diferentes estados 
 
 ### OBJETIVO 
