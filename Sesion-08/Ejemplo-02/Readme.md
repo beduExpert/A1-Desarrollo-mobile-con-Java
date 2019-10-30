@@ -40,6 +40,6 @@ Esta es la estructura del intent para envío de correos:
     }
 }
 ```
-3. Revisa los datos.
+3. Revisa los datos.  
 -Cuando usas Uri.encode puedes llegar a perder datos.  
 -Uri.encode transforma strings a formato URL.  
