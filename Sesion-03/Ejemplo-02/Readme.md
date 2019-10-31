@@ -4,9 +4,11 @@
  - En este ejemplo vemos que pasa si agregas varios objetos dentro de un Linear Layout. 
 
 #### REQUISITOS 
-1. Android Studio, conocimientos de strings.xml
+1. Android Studio
+2. Conocimientos de strings.xml
 
 #### DESARROLLO
-En este ejemplo muestro que pasa si pones varios objetos (textviews) dentro de un Linear Layout, puedes editar las propiedades y ver como funcionan y se comportan en la ventana de Preview (a tu derecha.)
+A continuación vamos a crear una estructura como la que se muestra en la siguiente pantalla.
 
-Nota: Ahora mismo por claridad dejé en Android: text el texto "hard-coded" pero en los siguientes ejemplos los pondré en res/value/strings.xml
+
+![Listando todos los documentos de una colección](img/layout.png)
