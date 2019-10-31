@@ -1,7 +1,7 @@
 ## Sesion 03 - Ejemplo 01
 
 ### OBJETIVO 
- - Comprender los fundamentos del diseño Lineal en android.
+ - Comprender los fundamentos de un archivo XML
 
 #### REQUISITOS 
 1. Android Studio 
@@ -12,7 +12,7 @@
 
 ![Listando todos los documentos de una colección](img/main.png)
 
-2. Modifica el código, para que se muestre igual al ejemplo de la siguiente pantalla. 
+2. Modifica el código como se muestra en la siguiente pantalla, para poder continuar con el ejemplo. 
 
 ![Listando todos los documentos de una colección](img/main2.png)
 
@@ -28,6 +28,8 @@ Cuenta con 4 propiedades.
 * Height 
 * Orientation
 * Gravity 
+
+A continuación vamos a poner en práctica las 4 propiedades del código XML.
 
 ### Propiedad Width
 
