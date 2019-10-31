@@ -1,12 +1,14 @@
- ## Sesion03 - Reto 01
+ ## Sesion 03 - Ejemplo 02
 
 ### OBJETIVO 
- - Aprender a modificar las propiedades de los objetos XML para obtener ciertos comportamientos.
+ - En este ejemplo vemos que pasa si agregas varios objetos dentro de un Linear Layout. 
 
 #### REQUISITOS 
 1. Android Studio
-2. Haber entendido los ejemplos 
+2. Conocimientos de strings.xml
 
 #### DESARROLLO
-Esta es la solución al reto 01: 
-El objetivo es crear la interfaz que se muestra en la presentación. (dos textviews hasta abajo de una pantalla, ordenados horizontalmente dentro de un LinearLayout)
+A continuación vamos a crear una estructura como la que se muestra en la siguiente pantalla.
+
+
+![Listando todos los documentos de una colección](img/layout.png)
