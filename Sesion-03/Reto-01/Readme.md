@@ -8,7 +8,7 @@
 2. Conocimientos de strings.xml
 
 #### DESARROLLO
-A continuación vamos a crear una estructura como la que se muestra en la siguiente pantalla.
+A continuación vamos a crear el una estructura como la que se muestra en la siguiente pantalla, con los conicimientos aprendidos anteriormente.
 
 
 ![Listando todos los documentos de una colección](img/layout.png)
