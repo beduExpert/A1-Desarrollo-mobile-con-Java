@@ -41,7 +41,6 @@ Sin el .java
 
     - public: Esto lo veremos mas adelante.
 
-
 ![Listando todos los documentos de una colección](img/codigo.png)
 
 
