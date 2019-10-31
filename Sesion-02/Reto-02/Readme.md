@@ -1,11 +1,23 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesion02 - Reto 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender como cambiar el color de una aplicación.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. GIMP (opcional)
+
 
 #### DESARROLLO
+ Cambiar el color a los siguientes elementos.
+* Colores de botones
+* Colores de texto
+* Colores de título
+* Colores de fondo de pantalla
 
+**Nota:**
+ 
+Utilizar nombres descriptivos, como por ejemplo: 
+**“color_dark_button”**
+
+   
