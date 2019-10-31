@@ -7,7 +7,7 @@
 1. Android Studio 
 
 #### DESARROLLO
-**Nota:**
+**Nota**
 
 * Puedes moficar los colores con formato hexadecimal.
 * Si modificas un color, se agregará en toda la App.
