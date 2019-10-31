@@ -1,4 +1,4 @@
- ## Sesion 03 - Ejemplo 02
+ ## Sesion 03 - Reto 01
 
 ### OBJETIVO 
  - En este ejemplo vemos que pasa si agregas varios objetos dentro de un Linear Layout. 
@@ -12,3 +12,13 @@ A continuación vamos a crear una estructura como la que se muestra en la siguie
 
 
 ![Listando todos los documentos de una colección](img/layout.png)
+
+<details>
+<summary>Solución</summary>
+<br>
+A continuación se muestra el código, para resolver el ejercicio visto anteriormente.
+<br><br>
+
+![Listando todos los documentos de una colección](img/resul.png)
+
+</details>
