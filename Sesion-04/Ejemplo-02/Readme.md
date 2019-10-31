@@ -8,5 +8,11 @@
 2. Conocimientos elementales de programación. 
 
 #### DESARROLLO
-En este ejemplo crearemos atributos. Los atributos son variables que le pertenecen a cierto objeto, mismas que pueden editarse y usarse para definir descripciones del objeto. 
-Por cuestión de sentido común y cultura pop, usé ejemplo de Pokemon, pero puede ser cualquier otro ejemplo. 
+1. Abre el archivo **MainActivity.java**
+2. Dentro de **Main.java** define un pokémon (que no sea Pikachu).
+
+**Nota**
+(Lo que está en cursivas déjalo como está, se explicará más adelante).
+
+![Listando todos los documentos de una colección](img/main.png)
+
