@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">PokeDex</string>
-    <string name="menu_option1">Aviso de privacidad</string>
-    <string name="menu_option2">Galería de imágenes</string>
-    <string name="menu_option3">Salir de la App</string>
-</resources>

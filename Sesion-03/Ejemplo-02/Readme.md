@@ -1,12 +1,17 @@
  ## Sesion 03 - Ejemplo 02
 
 ### OBJETIVO 
- - En este ejemplo vemos que pasa si agregas varios objetos dentro de un Linear Layout. 
+ - El alumnos aprenderá a crear actividades en android. 
 
 #### REQUISITOS 
-1. Android Studio, conocimientos de strings.xml
+1. Android Studio
+
 
 #### DESARROLLO
-En este ejemplo muestro que pasa si pones varios objetos (textviews) dentro de un Linear Layout, puedes editar las propiedades y ver como funcionan y se comportan en la ventana de Preview (a tu derecha.)
 
-Nota: Ahora mismo por claridad dejé en Android: text el texto "hard-coded" pero en los siguientes ejemplos los pondré en res/value/strings.xml
+1. En el panel izquierdo de nuestro proyecto, seleccionamos la carpeta **app**.
+2. Dar clic izquierdo, selecciona la opción **New** y da clic en la opción **Activity**.
+3. Seleccionamos la opción **Empty Activity** y le agremamos el siguiente nombre: **login_activity.xml**
+    
+
+![Listando todos los documentos de una colección](img/ejemplo.png)

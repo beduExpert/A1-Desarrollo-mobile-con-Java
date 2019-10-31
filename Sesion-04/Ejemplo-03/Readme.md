@@ -8,4 +8,39 @@
 2. Conocimientos elementales de programación.  
 
 #### DESARROLLO
-En este ejemplo podemos observar como se crea un método: un bloque de programación que permite al programador que el objeto realice alguna acción. Por cultura pop utilicé "Pokemon" como ejemplo, pero puede ser cualquier otro ejemplo. 
+##### Nuestro pokémon van a pelear !!!
+1. Agregar un método (o función) que se encargará de hacer un ataque.
+    - **Recibirá:** El nombre del ataque.
+    - **Regresará:** El daño que va a hacer.
+
+#### Código:
+
+```java
+package com.bedu.pokedex;
+public class Pokemon
+{
+    int numero;
+    String nombre;
+    double altura;
+    double peso;
+    String descripcion;
+    int tipo;   
+    int HP;
+
+   int atacar (String nombreAtaque)
+   {
+       Log.d(”PokeDex”,nombre + "ha usado" + nombreAtaque);
+       return 10;  
+   }
+}
+}
+```
+**Tip:**
+
+* A continuación se explica el método **Atacar**
+
+![Listando todos los documentos de una colección](img/atacar.png)
+
+
+
+

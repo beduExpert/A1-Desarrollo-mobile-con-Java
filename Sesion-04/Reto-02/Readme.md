@@ -1,7 +1,7 @@
 ## Sesion 04 - Reto 02
 
 ### OBJETIVO 
- - Aprenderás a crear un método con cierta lógica de programación dentro de él.
+ - Aprender a crear atributos en android
 
 #### REQUISITOS 
 1. Android Studio
@@ -9,5 +9,32 @@
 
 #### DESARROLLO
 
-El resultado del reto 02: Ser capaz de crear una función que reciba daño. 
-Cuando un valor se obtiene, se debe utilizar para restar otro valor, y si el valor llega a ser menor a 0, debe forzarse a ser 0 con un if.
+1. Abrir el archivo **Pokemon.java.**
+
+**Nota:**
+
+**HP** = Puntos de vida
+
+2. Agregar atributos a nuestro Pokémon.
+
+<details>
+<summary>Código</summary>
+<br>
+A continuación se muestra el código, para resolver el ejercicio visto anteriormente.
+<br>
+
+```java
+package com.bedu.pokedex;
+public class Pokemon
+{
+    int numero;
+    String nombre;
+    double altura;
+    double peso;
+    String descripcion;
+    int tipo;   
+   int HP;
+}
+```
+
+</details>

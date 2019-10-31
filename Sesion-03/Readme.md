@@ -10,10 +10,7 @@
 - Construcción de un LinearLayout y dos objetos.
 	- [Ejemplo 01](Ejemplo-01)
 	- [Reto 01](Reto-01)
-- Propiedades de un objeto en XML
+- Propiedades de un objeto en XML y layouts anidados
 	- [Ejemplo 02](Ejemplo-02)
 	- [Reto 02](Reto-02)
-- Pesos y layouts anidados
-	- [Ejemplo 03](Ejemplo-03)
-	- [Ejemplo 04](Ejemplo-04)
-	- [Reto 03](Reto-03)
+

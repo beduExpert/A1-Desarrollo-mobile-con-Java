@@ -8,5 +8,18 @@
 2. Conocimientos básicos de programación. 
 
 #### DESARROLLO
-Dentro de MainActivity.java, crea un pokemon! 
-Dejo un ejemplo, para que puedas irlo siguiendo, y seas capaz de crear un Pokemon por tu propia cuenta.
+1. Crear un nuevo Pokémon, para ello utilizaremos la sentencia **new.**
+    -   **Ejemplo:**
+
+        *Pokemon charmander = new Pokemon();*
+
+![Listando todos los documentos de una colección](img/new.png)
+
+### ¿Por qué todos se ven igual?
+
+* Si no editas los atributos, todos los pokémon son el mismo molde y son iguales.
+
+* Es importante que le pongas los atributos adecuadamente.
+
+
+
