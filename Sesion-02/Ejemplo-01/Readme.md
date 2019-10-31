@@ -75,9 +75,3 @@
   ![Listando todos los documentos de una colección](img/result.png)
 
 
-
-
-
-
-
-¡Buena suerte en el reto!
