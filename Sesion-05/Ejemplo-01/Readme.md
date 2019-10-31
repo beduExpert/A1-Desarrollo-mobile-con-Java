@@ -13,12 +13,16 @@
 - Podemos usar Log para ver cómo se comporta la App.  
 - El usuario nunca verá lo que hay en Log.  
 
-(imagen diapositiva- 11)
+![Listando todos los documentos de una colección](img/code1.png)
+
+![Listando todos los documentos de una colección](img/code2.png)
+
 
 **Partes del Logcat:**
 
- (imagen diapositiva 12)
+ ![Listando todos los documentos de una colección](img/code3.png)
+
  
  **Partes del Logcat (parte 2)**
  
- (imagen diapositiva 13)
+ ![Listando todos los documentos de una colección](img/code4.png)
