@@ -46,4 +46,4 @@ Puedes ajustar el tamaño de tus imágenes utilizando dependient pixels (dp) que
     - Nombre de Usuario
     - Contraseña
 
-<img src="img/imgs.png"  width="200" height="200" />
+<img src="img/login2.png"  width="200" height="350" />
