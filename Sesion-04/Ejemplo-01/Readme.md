@@ -39,7 +39,7 @@ Sin el .java
 
     - **class:** Lo que se describe entre llaves ({ }) se llamará “Pokémon”, y es un molde para crearlos a todos los demas pokémon.
 
-    - public: Esto lo veremos mas adelante.
+    - **public:** Esto lo veremos mas adelante.
 
 ![Listando todos los documentos de una colección](img/codigo.png)
 
