@@ -1,11 +1,14 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Sesion01 - Reto 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender a correr tu primera Aplicación en Android Studio
+
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Android Studio
+2. GIMP (opcional)
+
 
 #### DESARROLLO
+ Con los conceptos aprendidos anteriormente corre tu primera aplicación en android studio. 
 
