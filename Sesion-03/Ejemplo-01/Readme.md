@@ -59,5 +59,22 @@ A continuación vamos a poner en práctica las 4 propiedades del código XML.
 
 ![Listando todos los documentos de una colección](img/g.png)
 
+**Importante:**
+
+No uses **Design**, usa XML.
+
+**Motivo:**
+Si usas la ventana de diseño, las interfaces saldrán disparejas en otros teléfonos.
+
+Antes de programar, haz un **boceto.**
+
+**Motivo:**
+Es fácil que no sepas por dónde empezar si no tienes un boceto de tu interfaz.
+
+**Tip:**
+
+No te olvides de comentar en tu XML para tener una mejor estructura de tu código.
+
+![Listando todos los documentos de una colección](img/comentarios.png)
 
 
